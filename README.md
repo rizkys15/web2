@@ -8,3 +8,6 @@ Python adalah bahasa pemrograman interpretatif multiguna. Tidak seperti bahasa l
 
 berikut merupakan contoh tampilan python
 ![Gambar 1](screenshot/ss1.png)
+
+berikut psedocodenya
+![Gambar 2](screeenshot/ss2.png)
